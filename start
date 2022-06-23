@@ -1,0 +1,5 @@
+### Start a development run
+npm start
+
+### Start json server
+npm run server
